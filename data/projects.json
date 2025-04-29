@@ -1,0 +1,53 @@
+{
+    "projects":[
+        {
+            "title": "SkillBuddy: Skill Tracking and Growth App",
+            "imageUrl": "https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "project_url": "",
+            "description": "SkillBuddy is a personal skill management app where users can add, track, and update their skills along with proficiency levels. It encourages continuous learning by keeping a record of user progress.",
+            "tags": [ "java", "SQLite Database","XML" ]
+        },
+        {
+            "title": "FeelBeats: Emotion-Based Music Recommendation App",
+            "imageUrl": "https://images.unsplash.com/photo-1708164333066-dabc2dac17d2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "project_url": "",
+            "description": "FeelBeats analyzes voice input using AI-powered sentiment detection to understand the user's emotions and recommend personalized music playlists based on detected mood.",
+            "tags": [ "python", "flask", "SpeechRecognition" ]
+        },
+        {
+            "title": "Personal Event Manager App",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1661491911992-007da184856e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "project_url": "",
+            "description": "A personal event tracking Android app where users can add events, manage them with date pickers, categorize events, and receive event notifications.",
+            "tags": [ "Java", "SQLite Database"]
+        },
+        {
+            "title": "Bioinformatics Data Analysis Project",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1681996365271-f4f392125eee?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "project_url": "",
+            "description": "Worked with Lung Disease dataset",
+            "tags": [ ]
+        },
+        {
+            "title": "GHOST: Generative Honeypot Operations and Security Trap",
+            "imageUrl": "https://plus.unsplash.com/premium_photo-1674669009418-2643aa58b11b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "project_url": "",
+            "description": "A modern cybersecurity project built during a hackathon to detect and counter cyberattacks using honeypot traps. It collects intruder details like IP and location and alerts the user in real time.",
+            "tags": [ "react", "Machine Learning", "Cybersecurity" ]
+        },
+        {
+            "title": "Optimized Journeys: Solving the Traveling Salesman Problem",
+            "imageUrl": "https://images.unsplash.com/flagged/photo-1556514767-5c270b96a005?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "project_url": "",
+            "description": "A mini project solving the Traveling Salesman Problem (TSP) using optimization algorithms to find the shortest possible route visiting all given cities.",
+            "tags": [ "Tkinter for UI", "Optimization Techniques" ]
+        },
+         {
+            "title": "Smart AI Water Dispenser",
+            "imageUrl": "https://images.unsplash.com/photo-1553406830-f6e44ac97624?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "project_url": "https://github.com/Benrobo/tymonial-app",
+            "description": "An automatic water dispenser system powered by AI and Raspberry Pi. It detects the presence of a pet or user and dispenses water accordingly, promoting better hydration habits and reducing wastage..",
+            "tags": [ "Raspberry Pi", "Machine Learning", "Python" ]
+        }
+    ]
+}
